@@ -1,2 +1,2 @@
 # Beyond-Analytics
-A data science hackathon organised by technice 2021
+A data science hackathon organised by techniche 2021
